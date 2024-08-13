@@ -5,4 +5,4 @@ Consoleはbindingに対応していない（？）のでModelだけを流用し�
 
 アーキテクチャに依存しないモデル設計を行うための勉強になった。かも知れない・・・。
 
-![WpfApp.png](/WpfApp.png)
+![ConApp.png](/ConApp.png)
